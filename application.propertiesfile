@@ -1,2 +1,2 @@
-db.username=system
-db.password=tiger
+dbuser=system
+dbpwd=tiger
